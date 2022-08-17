@@ -1,1 +1,9 @@
 QUERY TO FETCH COLUMN NAMES FROM A TABLE : SELECT name FROM sys.columns WHERE object_id = OBJECT_ID('DATABASE_NAME.TABLE_NAME');
+QUERY TO FETCH LIST OF TABLE NAME FROM A SCHEMA : 
+                                                  select schema_name(t.schema_id) as schema_name,
+                                                         t.name as table_name,
+                                                         t.create_date,
+                                                         t.modify_date
+                                                  from sys.tables t
+                                                  where schema_name(t.schema_id) = 'HR' -- put schema name here
+                                                  order by table_name;
