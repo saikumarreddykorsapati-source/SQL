@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-pyspark-389908",
+  "private_key_id": "d60594583f25712a366b90f9ff3f384ff38203b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVuwriC75PG8hH\nxwPEqt6/3miQWiMlqrScAwS8sN2mTJdleVk50BcICN6TeangowclKvtXw155JLwo\nG/+EHFnyM5gcXXbbClK3FlwAxSeGj2J6QhrqxQzAqK0F3HsMjuD3rlpQSL2HQCD8\nfeNG1ufqE6+eFp+KREcA3z7O6BiKJMogvycHNfGMW3qWYhH80OJ2+IN8Ffqi1kr5\nyc+N8lWannV8Q3eJuICkJPxXaJyQz2DJ3Kpgl5FpX/iyAdXcTW/pUM7Uvc5PgfeM\n14k/N+cBodlZMgEjv13yam6uNYva/NPohIpkjgDNpmCaj2zRZn+16oPQaPvSyxr2\nJnRAdOo/AgMBAAECggEAQnVzSF/DcQDgEaWqH8zMD9heJkjI9gzzNTHhFrVebrgR\nOZ32pznz920enLfvoWjAL4gCeMNIzJ2mHki6dr+EHoJ5kZRkgW7f0ouS1zB2/mn2\ngrKsgQT91qh8iL6KyphhDtM5xQ4hVP2VZD3W3q+zlH9DlAJP4KQjeftxIdBc1RNS\nhe7UyN3e23oXa92TDq+1D7OstgBk5dOY4TufB/r2NW1a/lcVzzBjRcKIouKWGXut\n/8zEthTxlO/yZx2JGhWufuIEBEuLzbc5w27TwCyCph1cxp3X1uXoCACm1crmbQkp\ndM/eCkYGqDrqAEeKvG5Lv1F4VUwgLKKmPZF8rqE1TQKBgQD+UVLcdoiwdJeHqb4I\n+VbVmQSn78+6sdqfS/aMz6jwJppS4Emi7u7LA7Q5NCVBkTAPjK2sL2718gzmHhOw\nZ+h8MUq2rubMmy7udwlmiOlpyNObDtmPK2cYeS//jAwnwIIr2YjATFUUZsriKKAP\nFFtqfQ612jN/2F3BKWeQ7MMSTQKBgQDXJPyEDchJEmB51/UBl6BeSlluTEy+58Mw\nKAy6z+YqJe2n8VEN/eunN0jD7IUwLEPdQ7TP8I4lXquziYxfG46IN2x/MS7L+On3\nCzUzSbvnAdILdrn5DI3s+TxB9286aPxheLWxolZYWjM0/biU+zhEYR/LvbxdmXLf\nmpz0RZ68uwKBgQDNreHQ8YCtDS58Bpjt0xIaX833MCkVub+xc5Mr4MqlpuLKwiBr\nyMeRoyY/2V+EPrLa8JCJIDeia6do+Mw9sFvDDW56fsukkKENNXKB3ZrA9i3FSuZD\nNvwDPAfIqnAuOjBM3HsP4uwwOs48yFRivbkNT6T1CEr8S3XPwffDqug9RQKBgH2K\nZZcg+7g38vfmXl9ZfQjIVbsY5seXMbyOAi+YVPRPQYh4NhX2D2Z5ygoZn/ZmPguF\nEKMt+aQww/x1zOVKjTdLMBJgPrBjRRMVBSwyYGUCGPD7jLWY79BR9yl/GvZ4gJzX\n9R38Xmob6DmJvAWjOkgcbJNU2e+8NN3puKCJZ4E1AoGANtRxTFS1NggZHCC0iRYd\nnUqwtgG8uvRxegTjXljcZAIIwK3zKghKQmZFhPEZBAg+CdK35Zc1a8F1SYCpmVXc\nrGeddRxT6SSuSeLlFAx4pmVe83YfLlWo+44OMa+OxxfWXFRJZI/L+r7oU17iCD1x\n0Hl3IBB9gJ7t3N0Ki94A7EY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "serviceaccountpysparkdemo@my-project-pyspark-389908.iam.gserviceaccount.com",
+  "client_id": "104976679831631646509",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serviceaccountpysparkdemo%40my-project-pyspark-389908.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
